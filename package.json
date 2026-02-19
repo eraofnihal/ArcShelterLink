@@ -1,0 +1,13 @@
+{
+  "name": "shelterlink",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ShelterLink — MYP Design ePortfolio",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
